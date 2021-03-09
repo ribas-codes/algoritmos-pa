@@ -1,2 +1,2 @@
-# projetos-pa
-Programação e Algoritmos - Projetos
+# Algoritmos - Programação e Algoritmos
+Repositório destinado à postagem de algoritmos/códigos da matéria.
